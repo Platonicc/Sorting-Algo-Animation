@@ -1,2 +1,2 @@
 # Sorting-Algo-Animation
-Understand you sorting algotihms in a nice interactive way!
+Understand your sorting algotihms in a nice interactive way!
